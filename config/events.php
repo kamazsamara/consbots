@@ -1,0 +1,2 @@
+{"user":"216565821","routers":{"0":"mkt.supcore.ru"},"events":{"0":"logged in"},"message":{"0":"Вход пользователя в систему: "}}
+{"user":"216565821","routers":{"0":"665805d9b4c9.sn.mynetname.net"},"events":{"0":"85.113.55.177"},"message":{"0":"IP адрес засветился в системе: "}}

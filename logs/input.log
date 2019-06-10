@@ -1,0 +1,2 @@
+{"update_id":402538756,
+"message":{"message_id":873,"from":{"id":302744351,"is_bot":false,"first_name":"\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440","username":"smernitskiy","language_code":"ru-ru"},"chat":{"id":302744351,"first_name":"\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440","username":"smernitskiy","type":"private"},"date":1534494169,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}

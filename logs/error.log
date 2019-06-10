@@ -1,0 +1,243 @@
+
+Имя - ether1-gateway
+Имя по умолчанию  - ether1
+тип - ether
+MTU - 1500
+AMTU - 1500
+L2MTU - 1598
+Макс. MTU - 2028
+MAC - E4:8D:8C:D7:0F:69
+fast-path - true
+last-link-up-time - mar/01/2017 14:36:10
+link-downs - 1
+rx-byte - 173564338254
+tx-byte - 10505559336
+rx-packet - 132623199
+tx-packet - 51496111
+rx-drop - 0
+tx-drop - 0
+rx-error - 0
+tx-error - 0
+fp-rx-byte - 173009482622
+fp-tx-byte - 10293776312
+fp-rx-packet - 132605603
+fp-tx-packet - 51496112
+running - true
+disabled - false
+comment - VladLink
+
+Имя - ether2-master-local
+Имя по умолчанию  - ether2
+тип - ether
+MTU - 1500
+AMTU - 1500
+L2MTU - 1598
+Макс. MTU - 2028
+MAC - E4:8D:8C:D7:0F:6A
+fast-path - true
+last-link-up-time - mar/11/2017 11:12:35
+link-downs - 57
+rx-byte - 1017805030
+tx-byte - 68121798410
+rx-packet - 14136807
+tx-packet - 45608893
+rx-drop - 0
+tx-drop - 0
+rx-error - 0
+tx-error - 0
+fp-rx-byte - 1747166505
+fp-tx-byte - 69370997301
+fp-rx-packet - 15047350
+fp-tx-packet - 47897887
+running - true
+disabled - false
+comment - {comment}
+
+Имя - ether3-slave-local
+Имя по умолчанию  - ether3
+тип - ether
+MTU - 1500
+AMTU - 1500
+L2MTU - 1598
+Макс. MTU - 2028
+MAC - E4:8D:8C:D7:0F:6B
+fast-path - true
+last-link-up-time - mar/11/2017 11:12:34
+link-downs - 29
+rx-byte - 370175200
+tx-byte - 372383390
+rx-packet - 455837
+tx-packet - 1345537
+rx-drop - 0
+tx-drop - 0
+rx-error - 0
+tx-error - 0
+fp-rx-byte - 0
+fp-tx-byte - 0
+fp-rx-packet - 0
+fp-tx-packet - 0
+running - true
+disabled - false
+comment - {comment}
+
+Имя - ether4-slave-local
+Имя по умолчанию  - ether4
+тип - ether
+MTU - 1500
+AMTU - 1500
+L2MTU - 1598
+Макс. MTU - 2028
+MAC - E4:8D:8C:D7:0F:6C
+fast-path - true
+last-link-up-time - mar/07/2017 18:25:12
+link-downs - 20
+rx-byte - 312820452
+tx-byte - 407631439
+rx-packet - 311193
+tx-packet - 394343
+rx-drop - 0
+tx-drop - 0
+rx-error - 0
+tx-error - 0
+fp-rx-byte - 0
+fp-tx-byte - 0
+fp-rx-packet - 0
+fp-tx-packet - 0
+running - false
+disabled - false
+comment - {comment}
+
+Имя - ether5-slave-local
+Имя по умолчанию  - ether5
+тип - ether
+MTU - 1500
+AMTU - 1500
+L2MTU - 1598
+Макс. MTU - 2028
+MAC - E4:8D:8C:D7:0F:6D
+fast-path - true
+last-link-up-time - feb/16/2017 09:58:56
+link-downs - 12
+rx-byte - 194886280
+tx-byte - 151393103
+rx-packet - 222814
+tx-packet - 183551
+rx-drop - 0
+tx-drop - 0
+rx-error - 0
+tx-error - 0
+fp-rx-byte - 0
+fp-tx-byte - 0
+fp-rx-packet - 0
+fp-tx-packet - 0
+running - false
+disabled - false
+comment - {comment}
+
+Имя - wlan1
+Имя по умолчанию  - wlan1
+тип - wlan
+MTU - 1500
+AMTU - 1500
+L2MTU - 1600
+Макс. MTU - 2290
+MAC - E4:8D:8C:D7:0F:6F
+fast-path - true
+last-link-up-time - mar/13/2017 13:38:28
+link-downs - 1532
+rx-byte - 2854255667
+tx-byte - 37230381415
+rx-packet - 12847552
+tx-packet - 28236598
+rx-drop - 0
+tx-drop - 0
+rx-error - 0
+tx-error - 0
+fp-rx-byte - 2854255667
+fp-tx-byte - 17176970
+fp-rx-packet - 12847552
+fp-tx-packet - 32246
+running - true
+disabled - false
+comment - {comment}
+
+Имя - wlan2
+Имя по умолчанию  - wlan2
+тип - wlan
+MTU - 1500
+AMTU - 1500
+L2MTU - 1600
+Макс. MTU - 2290
+MAC - E4:8D:8C:D7:0F:6E
+fast-path - true
+last-link-up-time - mar/13/2017 11:27:12
+link-downs - 1362
+rx-byte - 5774343745
+tx-byte - 68135432007
+rx-packet - 25316007
+tx-packet - 57650193
+rx-drop - 0
+tx-drop - 0
+rx-error - 0
+tx-error - 0
+fp-rx-byte - 5774343745
+fp-tx-byte - 24648985
+fp-rx-packet - 25316007
+fp-tx-packet - 55065
+running - true
+disabled - false
+comment - {comment}
+
+Имя - bridge-local
+Имя по умолчанию  - {default-name}
+тип - bridge
+MTU - auto
+AMTU - 1500
+L2MTU - 1598
+Макс. MTU - {max-l2mtu}
+MAC - E4:8D:8C:D7:0F:6A
+fast-path - true
+last-link-up-time - feb/14/2017 17:03:19
+link-downs - 0
+rx-byte - 10304519477
+tx-byte - 174590674490
+rx-packet - 53037730
+tx-packet - 131355027
+rx-drop - 0
+tx-drop - 0
+rx-error - 0
+tx-error - 0
+fp-rx-byte - 10173561292
+fp-tx-byte - 0
+fp-rx-packet - 51711948
+fp-tx-packet - 0
+running - true
+disabled - false
+comment - {comment}
+
+Имя - mkt.supcore.ru
+Имя по умолчанию  - {default-name}
+тип - l2tp-out
+MTU - 1450
+AMTU - 1450
+L2MTU - {l2mtu}
+Макс. MTU - {max-l2mtu}
+MAC - {mac-address}
+fast-path - true
+last-link-up-time - mar/13/2017 12:57:16
+link-downs - 51
+rx-byte - 21491905
+tx-byte - 17128103
+rx-packet - 23629
+tx-packet - 64090
+rx-drop - 0
+tx-drop - 3
+rx-error - 0
+tx-error - 0
+fp-rx-byte - 0
+fp-tx-byte - 0
+fp-rx-packet - 0
+fp-tx-packet - 0
+running - true
+disabled - false
+comment - {comment}

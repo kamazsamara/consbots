@@ -1,0 +1,11 @@
+seq - {seq}
+host - {host}
+size - {size}
+ttl - {ttl}
+time - {time}
+sent - {sent}
+received - {received}
+loss - {packet-loss}
+min-rtt - {min-rtt}
+avg-rtt - {avg-rtt}
+max-rtt - {max-rtt}

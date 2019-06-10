@@ -1,0 +1,6 @@
+Описание содержимого /sources/sources.php
+
+<Incoming text command>--<System answer text>,<System command>,<Keyboard 1>,<Keyboard n>,<Keyboard n+1>
+
+Переход при выборе <Keyboard 1> на соответсвующую одноименную <Incoming text command> происходит только при пустом (пробел обязательно!) <System command>
+<System command> при выборе вызывает одноименную функцию из тела бота.
